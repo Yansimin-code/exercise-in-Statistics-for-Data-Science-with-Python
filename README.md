@@ -1,1 +1,1 @@
-# exercise-in-Statistics-for-Data-Science-with-Python
+# Project-in-Statistics-for-Data-Science-with-Python
